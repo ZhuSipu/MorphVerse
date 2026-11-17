@@ -1,0 +1,17 @@
+Habitat Synthetic Scenes Dataset (HSSD)
+
+Source https://huggingface.co/datasets/hssd/hssd-hab
+Pinned revision 4369cb9876214c7fbebcf552eb532380e4d287e4
+License Creative Commons Attribution-NonCommercial 4.0 International.
+https://creativecommons.org/licenses/by-nc/4.0/
+
+The official dataset card specifies license cc-by-nc-4.0 and asks users to
+acknowledge the CC BY-NC 4.0 terms. This notice records those terms and the
+source revision used by MorphVerse.
+
+Project https://3dlg-hcvc.github.io/hssd/
+
+MorphVerse modifications include conversion to OBJ and GLB, base-color texture
+decoding, fitting to recorded furniture dimensions, and verified front-direction
+corrections. Original HSSD asset IDs and source SHA-256 hashes remain in the
+published object metadata.

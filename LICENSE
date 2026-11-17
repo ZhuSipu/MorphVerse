@@ -1,0 +1,20 @@
+MorphVerse component licenses
+
+Furnished scene distribution and rendered visualizations
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+https://creativecommons.org/licenses/by-nc/4.0/
+Attribution, a link to the license and an indication of modifications must
+accompany redistribution. Use of the licensed material is non-commercial.
+
+Source floor-plan annotations
+ResPlan data retains Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+The original ResPlan license and attribution are in licenses/ResPlan.txt.
+
+Furniture meshes and textures
+HSSD and ReplicaCAD assets retain CC BY-NC 4.0.
+Their provenance and changes are described in THIRD_PARTY.md.
+The original ReplicaCAD notice is in licenses/ReplicaCAD.txt.
+The pinned HSSD license notice is in licenses/HSSD.txt.
+
+The license of each upstream component continues to apply to that component.
